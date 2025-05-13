@@ -22,11 +22,6 @@ Each pattern includes:
 - [Observer](behavioral/observer)
 - [Strategy](behavioral/strategy)
 
-## 🧪 Featured Demo
-
-- ✨ [Factory Method (URL Shortener)](creational/factory):  
-  Uses the Factory pattern to create short URLs with either a random or hashed strategy, depending on input. Demonstrates how to abstract creation logic and simplify extensibility.
-
 ## 🧑‍💻 Why this project?
 
 I'm learning and practicing design patterns by building them one by one in Go — this is both a personal learning log and a portfolio project. Each pattern is paired with a small real-world example to make it easier to understand and apply.
